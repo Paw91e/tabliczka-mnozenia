@@ -1,6 +1,20 @@
 
 > Otwórz tę stronę na [https://paw91e.github.io/tabliczka-mnozenia/](https://paw91e.github.io/tabliczka-mnozenia/)
 
+# Opis
+
+To mój pierwszy program Microbit.
+Jest to program do pomocy nauki tabliczki mnożenia.
+
+## Jak działa
+
+Przycisk A - wybierz pierwszą liczbę
+Przycisk B - wybierz drugą liczbę
+
+Naciśnij Logo - Zacznij odliczanie i na końcu pokaż wynik
+
+# Wygenerowane automatycznie przez MakeCode
+
 ## Użyj jako rozszerzenia
 
 To repozytorium można dodać jako **rozszerzenie** w MakeCode.
